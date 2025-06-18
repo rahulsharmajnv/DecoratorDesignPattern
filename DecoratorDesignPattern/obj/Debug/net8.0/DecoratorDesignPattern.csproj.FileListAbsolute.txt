@@ -30,3 +30,4 @@
 /Users/rahulsharma/Desktop/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net8.0/DecoratorDesignPattern.pdb
 /Users/rahulsharma/Desktop/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net8.0/DecoratorDesignPattern.genruntimeconfig.cache
 /Users/rahulsharma/Desktop/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net8.0/ref/DecoratorDesignPattern.dll
+/Users/rahulsharma/Desktop/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net8.0/DecoratorDesignPattern.sourcelink.json
